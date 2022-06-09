@@ -1,4 +1,2 @@
-Phone crea4ted
-This line is inserted by internet line 
-Thiks line is inserted by internet line 
+This line is inserted by internet line Thiks line is inserted by internet line 
 line 2 inserted by internet branch
